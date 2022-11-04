@@ -24,7 +24,7 @@
     "emulator": {
       "type": "android.emulator",
       "device": {
-        "avdName": "Pixel_API_31"
+        "avdName": "S21_Ultra_API_29"
       }
     }
   },
